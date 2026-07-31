@@ -29,6 +29,7 @@ Todo el código cumple **la Norma v4** (comprobado con `norminette`) y compila c
 | **C09** | Bibliotecas estáticas y `Makefile` | ![100/100](https://img.shields.io/badge/100-100-brightgreen) |
 | **C10** | La myor locura de 42 | ![100/100](https://img.shields.io/badge/100-100-brightgreen) |
 | **C11** | Punteros a funciones y tablas de punteros a funciones | ![100/100](https://img.shields.io/badge/100-100-brightgreen) |
+| **C12** | Listas enlazadas | ![100/100](https://img.shields.io/badge/100-100-brightgreen) |
 | **Rush00** | Dibujar rectángulos con distintos patrones de caracteres | ![116/100](https://img.shields.io/badge/116-100-blueviolet) |
 | **Rush01** | Resolución de un puzzle por backtracking | ![100/100](https://img.shields.io/badge/100-100-brightgreen) |
 | **Rush02** | Convertir números a letras a partir de un diccionario | ![106/100](https://img.shields.io/badge/106-100-blueviolet) |
